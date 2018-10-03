@@ -26,4 +26,4 @@ To see a demo video, click the screenshot (right). =>
 Contact
 -----------------------
 
-Email: tuan.lv@ou.edu.vn
+For any other question, please contact Tuan Le-Viet at tuan.lv@ou.edu.vn or nguyenleviettuan@gmail.com
