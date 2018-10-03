@@ -20,7 +20,7 @@ Screenshot & Demo Video
 
 To see a demo video, click the screenshot (right). =>
 <a style="float:right" href="https://youtu.be/3mRFK-IM6oU" target="_blank">
-  <img alt="PicSciP Demo Video" src="https://github.com/leviettuan/GLBP/blob/master/Images/Video.png" width="276" height="537" />
+  <img alt="PicSciP Demo Video" src="https://github.com/leviettuan/GLBP/blob/master/Images/Video.png" width="100%" height="100%" />
 </a>
 
 Contact
