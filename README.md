@@ -17,7 +17,7 @@ We release two tools in this repository. The first tool "training.exe" is used t
 
 Firstly, you divide your dataset into two subsets. The traing set is used to train our model that uses Gradient Local Binary Pattern (GLBP) to encode the local texture of image. The images in the test set are not includes in training set.
 
-Then, You can point the training dataset folder for the training tool, and run the testing tool to classify all the images in the testing set.
+Then, You can point the training dataset folder for the training tool, and run the testing tool to classify all the images in the test set.
 For more information about these tools, see the below video.
 
 Screenshot & Demo Video
