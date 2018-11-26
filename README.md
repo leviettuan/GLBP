@@ -15,13 +15,23 @@ Gradient Local Binary Pattern (GLBP)
 
 We release two tools in this repository. The first tool "training.exe" is used to train your bark image dataset. The second is a testing tool that classifies a bark image based on a pre-trained model.
 
+Firstly, you divide your dataset into two subsets. The traing set is used to train our model that uses Gradient Local Binary Pattern (GLBP) to encode the local texture of image. The images in the test set are not includes in training set.
+
+Then, You can point the training dataset folder for the training tool, and run the testing tool to classify all the images in the test set.
+For more information about these tools, see the below video.
+
 Screenshot & Demo Video
 -----------------------
 
-To see a demo video, click the screenshot (right). =>
-<a style="float:right" href="http://screencast.com/t/FlWlTPS8XKrI" target="_blank">
-  <img alt="PicSciP Demo Video" src="https://github.com/mattdipasquale/PicSciP/raw/master/screenshot.png" width="276" height="537" />
+To see a demo video, click the screenshot
+<a style="float:right" href="https://youtu.be/3mRFK-IM6oU" target="_blank">
+  <img alt="PicSciP Demo Video" src="https://github.com/leviettuan/GLBP/blob/master/Images/Video.png" width="100%" height="100%" />
 </a>
+
+Dataset
+-----------------------
+
+<a href="http://data.vicos.si/datasets/TRUNK12/TRUNK12.zip">TRUNK12 dataset</a> (http://www.vicos.si/Downloads/TRUNK12)
 
 Contact
 -----------------------
